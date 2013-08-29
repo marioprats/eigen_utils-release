@@ -1,5 +1,24 @@
 ## eigen_utils - 1.0.2-0
 
+User `mprats@itaca` released the packages in the `eigen_utils` repository by running `/usr/bin/bloom-release --track hydro --ros-distro hydro eigen_utils` on `Thu, 29 Aug 2013 17:51:22 -0000`
+
+The `eigen_utils` package was released.
+
+Version of package(s) in repository `eigen_utils`:
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-2`
+- new version: `1.0.2-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.31`
+
+
+## eigen_utils - 1.0.2-0
+
 User `mprats@itaca` released the packages in the `eigen_utils` repository by running `/usr/bin/bloom-release --track groovy --ros-distro groovy eigen_utils` on `Thu, 29 Aug 2013 17:48:03 -0000`
 
 The `eigen_utils` package was released.
