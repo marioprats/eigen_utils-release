@@ -1,0 +1,12 @@
+Source: ros-hydro-eigen-utils
+Section: misc
+Priority: extra
+Maintainer: Mario Prats <marioprats@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), libeigen3-dev, ros-hydro-catkin, ros-hydro-roscpp, ros-hydro-tf, ros-hydro-tf-conversions
+Homepage: http://ros.org/wiki/eigen_utils
+Standards-Version: 3.9.2
+
+Package: ros-hydro-eigen-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-hydro-roscpp, ros-hydro-tf, ros-hydro-tf-conversions
+Description: Useful math functions using Eigen
